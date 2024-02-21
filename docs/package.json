@@ -1,0 +1,12 @@
+{
+  "name": "docs",
+  "scripts": {
+    "dev": "vitepress dev --port 5177",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vitepress": "1.0.0-rc.40"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@metamorfosilab/lib-template": "workspace:*"
+  },
+  "devDependencies": {
+    "pathe": "^1.1.2",
+    "typescript": "5.3.3",
+    "vite": "^5.0.8"
+  }
+}
